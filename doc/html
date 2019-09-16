@@ -1,0 +1,84 @@
+<!DOCTYPE html 这是一个注释>
+<html>
+<head>
+<title charest="uft-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+
+<boby>
+<h1>这是一个标题。</h1>
+<font size="6">这是6号字体文本</font>
+<h2>这是一个标题。</h2>
+
+<hr>水平线
+
+<p>我的第一个段落</p>
+<a href="http://www.lvyipack.com">www.lvyipack.com</a>
+<br>
+<img src="png.png" width="360" height="360" />
+
+<b>加粗文本</b><br><br>
+<i>斜体文本</i><br><br>
+<code>电脑自动输出</code><br><br>
+这是 <sub> 下标</sub> 和 <sup> 上标</sup>
+<em>强调文本</em><br>
+<strong>加粗文本</strong><br>
+<dfn>定义项目</dfn><br>
+<code>一段电脑代码</code><br>
+<samp>计算机样本</samp><br>
+<kbd>键盘输入</kbd><br>
+<var>变量</var>
+
+<table border="1">
+  <colgroup>
+    <col span="2" style="background-color:red">
+    <col style="background-color:yellow">
+  </colgroup>
+  <tr>
+    <th>ISBN</th>
+    <th>Title</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>3476896</td>
+    <td>My first HTML</td>
+    <td>$53</td>
+  </tr>
+  <tr>
+    <td>5869207</td>
+    <td>My first CSS</td>
+    <td>$49</td>
+  </tr>
+</table>
+一段带有已删除部分和新插入部分的文本
+<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+
+<div style="color:#0000FF">
+  <h3>这是一个在 div 元素中的标题。</h3>
+  <p>这是一个在 div 元素中的文本。</p>
+</div>
+
+<figure>
+  <img src="jpg.jpg" alt="The Pulpit Rock" width="720" height="480">
+  <figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
+</figure>
+
+<font size="3" color="red">这是一些文本!</font>
+<font size="2" color="blue">这是一些文本!</font>
+<font face="verdana" color="green">这是一些文本!</font>
+
+带有两个输入字段和一个提交按钮的 HTML 表单
+<form action="demo_form.php" method="get">
+  First name: <input type="text" name="fname"><br>
+  Last name: <input type="text" name="lname"><br>
+  <input type="submit" value="提交">
+</form>
+
+<footer>
+  <p>Posted by: Hege Refsnes</p>
+  <p><time pubdate datetime="2012-03-01"></time></p>
+</footer>
+
+文档的页脚
+</boby>
+</html>
